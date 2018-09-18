@@ -1,0 +1,19 @@
+Q1 : 
+Result 1 : 0.9418817573025173  
+Result 2 : 0.839440387343154
+
+Q2 : 
+# D'après le premier graphique, on constate que plus la longeurs des pétales augmentent, plus la largeur de celles-ci augmentent.
+Ce graphique nous permet d'émettre l'hypothèse d'une correlation linéaire positive entre ces deux variables. Après calcul du coefficient de Pearson,
+on peut confirmer l'hypothèse précédente car la valeur est proche de 1 (0.9418817573025173).
+
+# D'après le deuxième graphique, on observe que les points sont plus disparates, au point où une correlation ne semble pas pouvoir être mise en avant. 
+Le calcul du coefficient de Pearson ( -0.24797130615784596), étant proche de 0, semble confirmer l'hypothèse qu'il n'existe aucune correlation entre ces deux variables.
+
+Q3 : 
+Cas 1 : (a)petal_length   0.385994     (b)intercept      0.509268
+Cas 2 : (a)petal_width    1.787501     (b)intercept      1.459327
+Cas 3 : (a)petal_width    0.699251     (b)intercept      1.037743
+Cas 4 : (a)petal_width    0.973570     (b)intercept      0.809489
+
+Q4 :  (voir code R ou Python)
